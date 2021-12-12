@@ -1,83 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://orumcan.com/portfolio/hyper-tether/</loc>
+    <lastmod>2021-12-12T21:45:20+03:00</lastmod>
+  </url><url>
+    <loc>https://orumcan.com/portfolio/</loc>
+    <lastmod>2021-12-12T21:45:20+03:00</lastmod>
+  </url><url>
+    <loc>https://orumcan.com/</loc>
+    <lastmod>2021-12-12T21:45:20+03:00</lastmod>
+  </url><url>
+    <loc>https://orumcan.com/cv/</loc>
+    <lastmod>2021-12-12T19:45:25+03:00</lastmod>
+  </url><url>
     <loc>https://orumcan.com/portfolio/fishing-coast/</loc>
     <lastmod>2021-01-17T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://orumcan.com/portfolio/</loc>
-    <lastmod>2021-01-17T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://orumcan.com/</loc>
-    <lastmod>2021-01-17T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/fix-n-wreck/</loc>
     <lastmod>2021-01-16T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/color-hole/</loc>
     <lastmod>2021-01-15T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://orumcan.com/cv/</loc>
-    <lastmod>2021-01-15T01:45:23+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/mine-crawler/</loc>
     <lastmod>2021-01-14T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/blog/</loc>
     <lastmod>2021-01-14T01:22:04+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/blog/lorem-ipsum/</loc>
     <lastmod>2021-01-14T01:22:04+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/blog/hello-world/</loc>
     <lastmod>2021-01-14T01:21:04+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/harvest-town/</loc>
     <lastmod>2021-01-13T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/merge-army/</loc>
     <lastmod>2021-01-12T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/word-hero/</loc>
     <lastmod>2021-01-11T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/portfolio/windin/</loc>
     <lastmod>2021-01-10T03:13:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://orumcan.com/tags/</loc>
   </url>
-  
 </urlset>

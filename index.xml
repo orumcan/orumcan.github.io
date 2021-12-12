@@ -6,7 +6,31 @@
     <description>Recent content on Ömür Can Güngören</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 03:13:20 +0300</lastBuildDate><atom:link href="https://orumcan.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 21:45:20 +0300</lastBuildDate><atom:link href="https://orumcan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyper Tether</title>
+      <link>https://orumcan.com/portfolio/hyper-tether/</link>
+      <pubDate>Sun, 12 Dec 2021 21:45:20 +0300</pubDate>
+      
+      <guid>https://orumcan.com/portfolio/hyper-tether/</guid>
+      <description> GMTK Game Jam 2021 submission where the theme was Joined Together.
+Check it out
+   </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://orumcan.com/cv/</link>
+      <pubDate>Sun, 12 Dec 2021 19:45:25 +0300</pubDate>
+      
+      <guid>https://orumcan.com/cv/</guid>
+      <description>Ömür Can Güngören Unity Developer  Contact Details: orumcan@gmail.com
++90 (539) 618 2035
+Github: github.com/orumcan
+LinkedIn: linkedin.com/in/orumcan
+ Personal Profile Hello, I&#39;m Omur, a game programmer &amp;amp; designer from Turkey (Bulgarian citizen). Experienced with C# and Java, I developed mobile casual/hyper-casual, arcade and puzzle games. I&#39;ve previously prototyped puzzles, clicker games, platformer/runner games and turn-based RPGs. I am experienced in UI design &amp;amp; programming, editor scripting, event systems; I care for clean coding, best practices and design patterns.</description>
+    </item>
+    
     <item>
       <title>Fishing Coast</title>
       <link>https://orumcan.com/portfolio/fishing-coast/</link>
@@ -35,20 +59,6 @@
       <guid>https://orumcan.com/portfolio/color-hole/</guid>
       <description> A clone of Color Hole game.
   </description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://orumcan.com/cv/</link>
-      <pubDate>Fri, 15 Jan 2021 01:45:23 +0300</pubDate>
-      
-      <guid>https://orumcan.com/cv/</guid>
-      <description>Ömür Can Güngören Unity Developer  Contact Details: orumcan@gmail.com
-+90 (539) 618 2035
-Github: github.com/orumcan
-LinkedIn: linkedin.com/in/orumcan
-Unity Connect: connect.unity.com/u/omur-can-gungoren
- Personal Profile Hello, I&#39;m Omur, a game programmer &amp;amp; designer from Turkey (Bulgarian citizen). Experienced with C# and Java, I developed mobile casual/hyper-casual, arcade and puzzle games. I&#39;ve previously prototyped puzzles, clicker games, platformer/runner games and turn-based RPGs. I am experienced in UI design &amp;amp; programming, editor scripting, event systems; I care for clean coding, best practices and design patterns.</description>
     </item>
     
     <item>
