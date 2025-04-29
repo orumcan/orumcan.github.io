@@ -13,8 +13,8 @@
       <pubDate>Sun, 21 Apr 2024 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/cut-the-rope/</guid>
-      <description>Om Nom is back in the glorious 3D remaster of the legendary Cut the Rope puzzle game!
-Cut ropes, avoid obstacles and use boosters to deliver candy to Om Nom, the little green monster that loves sweets. Addictively fun physics based-gameplay, an adorable main character and exciting adventures await. Join more than 1 billion players who enjoyed the original titles. And if you&amp;rsquo;re an old fan, be ready for some some sweet new treats!</description>
+      <description>Role: Live-Ops Developer   Developed the post launch content updates for the popular Apple Arcade title Cut The Rope Remastered.
+ Worked on various content and seasonal updates, from new gameplay features to backend and editor tools. Developed a board game feature which ended up being the main focus of the seasonal updates. Developed an Automation System to cycle through event updates without requiring to release new versions. Worked on the Analytics considering the Apple Arcade’s requirements and limitations.</description>
     </item>
     
     <item>
@@ -23,12 +23,19 @@ Cut ropes, avoid obstacles and use boosters to deliver candy to Om Nom, the litt
       <pubDate>Sat, 20 Apr 2024 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/my-tamagotchi-forever/</guid>
-      <description> 20 years have passed since the world met Tamagotchi. All over the world, little eggs hidden in backpacks received loving care from their owners, and drove teachers crazy. Today, the Tamagotchi are back - this time on your mobile phone, with more pixels and cuteness than ever.
- 
-
-Paladin Website
-Bandai Namco Website
-     </description>
+      <description>Role: Live-Ops Developer   Maintaining and improving the popular live mobile game My Tamagotchi Forever.
+ Worked on various content and seasonal updates. Worked with many F2P elements such as In-App Purchases Mobile Ads and many other SDKs such as AR Developed an Automation System to cycle through event updates without requiring to release new versions. Implemented the Collection feature where it tracks and shows the player statistics for completion of the game.</description>
+    </item>
+    
+    <item>
+      <title>Conga Line</title>
+      <link>https://orumcan.com/portfolio/conga-line/</link>
+      <pubDate>Sat, 20 Apr 2024 03:11:20 +0300</pubDate>
+      
+      <guid>https://orumcan.com/portfolio/conga-line/</guid>
+      <description>Role: Technical Designer &amp;amp; Game Direction  Conga Line was a project that I came up with during my time on the Ideation Team at Paladin Studios.
+  The goal was to have followers that&amp;rsquo;ll mimic the movement and the actions of the leader (player character) and solve the puzzles and pass the platforming challenges.
+My initial assumption was that just seeing a line of followers behind you, taking the exact steps that you take would be fun to see and hopefully it would be fun to manage this snake-like line that you&amp;rsquo;ve created.</description>
     </item>
     
     <item>
@@ -37,12 +44,9 @@ Bandai Namco Website
       <pubDate>Fri, 21 Jan 2022 03:25:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/windin/</guid>
-      <description> Welcome to Windin, a casual puzzle game that will tickle your brain with its brand new wind mechanic. Plan your move, place your gems on the board, let the wind blow and reap the rewards of your clever play!
- 
-
-Website
-Presskit
-    </description>
+      <description>Role: Full-Stack Unity Developer   Developed Windin&amp;rsquo;s (a casual puzzle game) core and general game mechanics.
+ Implemented two layered unique puzzle mechanisms. Worked on UI and animations with the guidance of art direction. Developed a levelling system depending on game experience. Implemented localisation for different languages. Implemented Facebook SDK to compete scores with online friends.    More on my responsibilities on this project
+ Welcome to Windin, a casual puzzle game that will tickle your brain with its brand new wind mechanic.</description>
     </item>
     
     <item>
@@ -51,8 +55,8 @@ Presskit
       <pubDate>Thu, 20 Jan 2022 03:18:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/word-hero/</guid>
-      <description>Word Hero is the unique, fun and free online multiplayer word game. You will enjoy this simple yet challenging word game. Challenge your brain while having fun. Place letters and make meaningful words.
-Word Hero is a turn based word game where each player has a unique board. Take turns calling out a letter. As each letter is called out, you write the letter on your board. The goal is to make as many meaningful words as possible.</description>
+      <description>Role: Full-Stack Unity Developer (Sole programmer)   Developed a word puzzle game, Word Hero.
+ Programmed the game on UI with many animations and interactions considering the mobile capabilities. Implemented turn based multiplayer mode using Photon Network. Implemented an AI Bot for single-player mode. Implemented Localization system, (English, Turkish) that changes both UI and gameplay languages, word databases, AI logic. Implemented a Tutorial sequence. Implemented game analytics.    More on my responsibilities on this project</description>
     </item>
     
     <item>
@@ -61,9 +65,9 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Wed, 19 Jan 2022 03:11:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/merge-army/</guid>
-      <description> Upgrade your army and weapons ! Blow down the wall !
- 
- </description>
+      <description>Role: Full-Stack Unity Developer (Sole programmer) &amp;amp; Game Designer   Developing the merging game Merge Army!
+ Implemented an offline earning and daily bonus mechanics. Implemented mobile ads SDKs and In-App Purchase mechanics. Implemented game notifications depending on in-game states. Developed an achievement system. Implemented game analytics. Implemented Tutorial sequences.    More on my responsibilities on this project
+ Upgrade your army and weapons ! Blow down the wall !</description>
     </item>
     
     <item>
@@ -72,7 +76,7 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Tue, 18 Jan 2022 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/mine-crawler/</guid>
-      <description> A turn-based roguelike mining game.
+      <description> Role: Full-Stack Developer &amp;amp; Game Design / Direction  A turn-based roguelike mining game.
   </description>
     </item>
     
@@ -82,7 +86,7 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Mon, 17 Jan 2022 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/harvest-town/</guid>
-      <description> A mobile idle farming simulator that is played in real-time.
+      <description> Role: Full-Stack Developer &amp;amp; Game Design / Direction  A mobile idle farming simulator that is played in real-time.
   </description>
     </item>
     
@@ -92,7 +96,7 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Sun, 16 Jan 2022 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/fishing-coast/</guid>
-      <description> A fishing game where you collect fishes and try to complete the catalog.
+      <description> Role: Full-Stack Developer &amp;amp; Game Design / Direction  A fishing game where you collect fishes and try to complete the catalog.
  </description>
     </item>
     
@@ -102,7 +106,7 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Sat, 15 Jan 2022 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/fix-n-wreck/</guid>
-      <description> A 4 people Couch Co-op game where a team fixes and the other team wrecks the items.
+      <description> Role: Gameplay Developer &amp;amp; Game Design / Direction  A 4 people Couch Co-op game where a team fixes and the other team wrecks the items.
   </description>
     </item>
     
@@ -112,7 +116,7 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Fri, 14 Jan 2022 03:13:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/color-hole/</guid>
-      <description> A clone of Color Hole game.
+      <description> Role: Full-Stack Developer (Sole programmer)  A clone of Color Hole game.
   </description>
     </item>
     
@@ -122,7 +126,7 @@ Word Hero is a turn based word game where each player has a unique board. Take t
       <pubDate>Sun, 12 Dec 2021 21:45:20 +0300</pubDate>
       
       <guid>https://orumcan.com/portfolio/hyper-tether/</guid>
-      <description> GMTK Game Jam 2021 submission where the theme was Joined Together.
+      <description> Role: Gameplay Developer &amp;amp; Game Designer  GMTK Game Jam 2021 submission where the theme was Joined Together.
 Check it out
    </description>
     </item>
